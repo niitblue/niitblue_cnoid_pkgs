@@ -1,0 +1,29 @@
+- git:
+    local-name: choreonoid
+    uri: https://github.com/choreonoid/choreonoid.git
+    version: master
+- git:
+    local-name: choreonoid_ros
+    uri: https://github.com/choreonoid/choreonoid_ros.git
+    version: master
+- git:
+    local-name: choreonoid_ros_control
+    uri: https://github.com/RyodoTanaka/choreonoid_ros_control.git
+    version: master
+- git:
+    local-name: choreonoid_ros_samples
+    uri: https://github.com/choreonoid/choreonoid_ros_samples.git
+    version: master
+- git:
+    local-name: choreonoid_joy
+    uri: https://github.com/choreonoid/choreonoid_joy.git
+    version: master
+- git:
+    local-name: cnoid_tank_pkgs
+    uri: https://github.com/choreonoid/cnoid_tank_pkgs.git
+    version: master
+- git:
+    local-name: rtf-test-plant
+    uri: https://github.com/choreonoid/rtf-test-plant.git
+    version: master
+
